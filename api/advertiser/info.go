@@ -1,8 +1,8 @@
 package advertiser
 
 import (
-	"github.com/bububa/kwai-marketing-api/core"
-	"github.com/bububa/kwai-marketing-api/model/advertiser"
+	"github.com/lzk97224/kwai-marketing-api/core"
+	"github.com/lzk97224/kwai-marketing-api/model/advertiser"
 )
 
 // Info 获取广告账户信息

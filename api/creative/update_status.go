@@ -1,8 +1,8 @@
 package creative
 
 import (
-	"github.com/bububa/kwai-marketing-api/core"
-	"github.com/bububa/kwai-marketing-api/model/creative"
+	"github.com/lzk97224/kwai-marketing-api/core"
+	"github.com/lzk97224/kwai-marketing-api/model/creative"
 )
 
 // UpdateStatus 修改创意状态

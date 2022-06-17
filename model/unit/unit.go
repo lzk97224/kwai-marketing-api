@@ -1,6 +1,6 @@
 package unit
 
-import "github.com/bububa/kwai-marketing-api/model/target"
+import "github.com/lzk97224/kwai-marketing-api/model/target"
 
 // Unit 广告组
 type Unit struct {

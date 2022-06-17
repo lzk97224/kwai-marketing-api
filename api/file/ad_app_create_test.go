@@ -2,8 +2,8 @@ package file
 
 import (
 	"fmt"
-	"github.com/bububa/kwai-marketing-api/core"
-	"github.com/bububa/kwai-marketing-api/model/file"
+	"github.com/lzk97224/kwai-marketing-api/core"
+	"github.com/lzk97224/kwai-marketing-api/model/file"
 	"testing"
 )
 

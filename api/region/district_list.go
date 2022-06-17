@@ -1,8 +1,8 @@
 package region
 
 import (
-	"github.com/bububa/kwai-marketing-api/core"
-	"github.com/bububa/kwai-marketing-api/model/region"
+	"github.com/lzk97224/kwai-marketing-api/core"
+	"github.com/lzk97224/kwai-marketing-api/model/region"
 )
 
 // DistrictList 获取商圈地域定向

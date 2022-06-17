@@ -1,8 +1,8 @@
 package target
 
 import (
-	"github.com/bububa/kwai-marketing-api/core"
-	"github.com/bububa/kwai-marketing-api/model/target"
+	"github.com/lzk97224/kwai-marketing-api/core"
+	"github.com/lzk97224/kwai-marketing-api/model/target"
 )
 
 // TemplateDelete 删除定向模板

@@ -1,3 +1,3 @@
-module github.com/bububa/kwai-marketing-api
+module github.com/lzk97224/kwai-marketing-api
 
 go 1.16

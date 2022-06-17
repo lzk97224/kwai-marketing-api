@@ -1,6 +1,6 @@
 package report
 
-import "github.com/bububa/kwai-marketing-api/model"
+import "github.com/lzk97224/kwai-marketing-api/model"
 
 // ReportRequest 数据报表APIRequest公用数据
 type ReportRequest struct {

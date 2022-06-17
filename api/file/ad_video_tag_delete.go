@@ -1,8 +1,8 @@
 package file
 
 import (
-	"github.com/bububa/kwai-marketing-api/core"
-	"github.com/bububa/kwai-marketing-api/model/file"
+	"github.com/lzk97224/kwai-marketing-api/core"
+	"github.com/lzk97224/kwai-marketing-api/model/file"
 )
 
 // AdVideoTagDelete 视频库-删除视频标签

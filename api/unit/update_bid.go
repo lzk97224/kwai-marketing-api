@@ -1,8 +1,8 @@
 package unit
 
 import (
-	"github.com/bububa/kwai-marketing-api/core"
-	"github.com/bububa/kwai-marketing-api/model/unit"
+	"github.com/lzk97224/kwai-marketing-api/core"
+	"github.com/lzk97224/kwai-marketing-api/model/unit"
 )
 
 // UpdateBid 修改广告组出价
